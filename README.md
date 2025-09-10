@@ -1,3 +1,17 @@
+# Certified Cloud AI Solutions Architect (CCASA)
+
+Take the Official Certification Course and get Certified in Less than a few days!
+
+The Certified Cloud AI Solutions Architect (CCASA) is an ideal designation for Enterprise, Solutions, and Presales Architects who are at the forefront of enterprise cloud evolution.
+
+As intelligent automation rapidly infiltrates enterprise landscapes, this cloud-agnostic certification equips you with the critical presales and pre-implementation expertise demanded now.
+
+Across all major cloud providers, CCASA empowers you to architect AI-driven solutions that deliver tangible business impact from day one.
+
+Don't be left behind; the time to master the AI cloud is now.
+
+---
+
 # Welcome to your Lovable project
 
 ## Project info
